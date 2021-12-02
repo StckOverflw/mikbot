@@ -19,7 +19,9 @@ include(
     "utils:verification-system",
     "utils:epic-games-notifier",
     "test-bot",
-    "mikmusic-bot"
+    "mikmusic-bot",
+    "votebot",
+    "votebot:chart-service-client"
 )
 
 includeBuild("gradle-plugin")
