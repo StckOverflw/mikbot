@@ -21,7 +21,8 @@ include(
     "test-bot",
     "mikmusic-bot",
     "votebot",
-    "votebot:chart-service-client"
+    "votebot:chart-service-client",
+    "votebot:common"
 )
 
 includeBuild("gradle-plugin")
