@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    id("com.gradle.plugin-publish") version "1.0.0-rc-3"
+    id("com.gradle.plugin-publish") version "1.2.1"
     `java-gradle-plugin`
     kotlin("jvm") version "1.7.10"
     kotlin("plugin.serialization") version "1.7.10"
