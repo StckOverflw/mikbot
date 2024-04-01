@@ -4,7 +4,7 @@ plugins {
     id("com.gradle.plugin-publish") version "1.0.0-rc-3"
     `java-gradle-plugin`
     kotlin("jvm") version "1.7.10"
-    kotlin("plugin.serialization") version "1.7.10"
+    kotlin("plugin.serialization") version "1.9.23"
 }
 
 group = "dev.schlaubi"
